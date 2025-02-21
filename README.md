@@ -1,5 +1,7 @@
 # Recruiting-Process-Optimization
 
+Hi Amrou! Thanks for checking out my project. Here's the descrition of each file's functionality.
+
 build_model.py: construct a MLP (Multiple-layer Perceptron) model and save it as the model weights.
 
 mlp_model.h5: the saved model weights.
